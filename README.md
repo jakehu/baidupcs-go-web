@@ -15,5 +15,5 @@ docker run -d --name baidupcs -p 5299:5299 jakehu/baidupcs-go-web
 默认下载目录在容器`/Downloads`，可自己挂载到群晖相应位置
 
 # 群晖配置
-![](https://ws2.sinaimg.cn//810603f6ly1g0ips49v3cj20v80ecabg.jpg)
-![](https://ws3.sinaimg.cn//810603f6ly1g0iprq8fuwj20k60bg3yp.jpg)
+![](http://wx3.sinaimg.cn/large/810603f6ly1g0ips49v3cj20v80ecabg.jpg)
+![](http://wx4.sinaimg.cn/large/810603f6ly1g0iprq8fuwj20k60bg3yp.jpg)
