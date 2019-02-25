@@ -9,5 +9,5 @@ docker build -t baidupcs-go-web:v3.6.4 .
 
 # 运行
 ```
-docker run -d --name baidupcs -p 5299:5299
+docker run -d --name baidupcs -p 5299:5299 jakehu/baidupcs-go-web
 ```
